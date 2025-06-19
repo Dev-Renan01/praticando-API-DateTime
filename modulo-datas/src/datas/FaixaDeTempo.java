@@ -31,7 +31,6 @@ public class FaixaDeTempo {
             System.out.println("Parcela de número: " + i + "\nvencimento: "
                     + new SimpleDateFormat("dd/MM/yyyy").format (calendar.getTime()));
 
-
         }
     }
 }
