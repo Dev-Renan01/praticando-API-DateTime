@@ -37,10 +37,5 @@ public class APIDatas {
 
         System.out.println("ano: " + localDate.getYear());
 
-
-
-
-
-
     }
 }
